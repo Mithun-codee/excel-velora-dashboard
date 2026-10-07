@@ -8,7 +8,7 @@ This project demonstrates practical skills in **data cleaning, data analysis, Pi
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](veloraashboardss.png)
+![Sales Dashboard](veloradashboardss.png)
 
 ---
 
