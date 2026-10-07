@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard | Microsoft Excel
+# Sales Performance Dashboard | Microsoft Excel
 
 An interactive **Sales Performance Dashboard** developed using Microsoft Excel to analyze sales trends, product performance, customer segments, and business performance over time.
 
@@ -6,13 +6,13 @@ This project demonstrates practical skills in **data cleaning, data analysis, Pi
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Sales Dashboard](veloradashboardss.png)
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective of this project is to transform raw sales data into an interactive and visually intuitive dashboard that helps users:
 
@@ -25,7 +25,7 @@ The objective of this project is to transform raw sales data into an interactive
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -39,7 +39,7 @@ The objective of this project is to transform raw sales data into an interactive
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### Sales Trend Analysis
 Analyzes sales performance across different years to identify growth and changes over time.
@@ -93,7 +93,7 @@ Preview image of the completed dashboard.
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
@@ -108,7 +108,7 @@ Preview image of the completed dashboard.
 
 ---
 
-## 🚀 Project Outcome
+## Project Outcome
 
 This project helped strengthen my practical understanding of **Excel-based data analysis and business intelligence** by converting raw sales data into an interactive dashboard designed for quick and meaningful decision-making.
 
